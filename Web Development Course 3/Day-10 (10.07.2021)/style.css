@@ -1,0 +1,45 @@
+.btn {
+    width: 200px;
+    height: 60px;
+    border: 1px solid grey;
+    background: transparent;
+    color: grey;
+}
+
+/* pseudoselector */
+.btn:hover {
+    background: grey;
+    color: white;
+}
+
+.shadow {
+    width: 200px;
+    height: 60px;
+    background: lightskyblue;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+
+.shadow:hover {
+    background: white;
+    color: lightskyblue;
+    box-shadow: 4px 4px 10px lightskyblue;
+    cursor: pointer;
+}
+
+.border {
+    width: 200px;
+    height: 60px;
+    background: maroon;
+    color: white;
+    border: none;
+    font-size: 18px;
+}
+
+.border:hover {
+    background: white;
+    border-radius: 20px;
+    color: maroon;
+    border: 2px solid maroon
+}

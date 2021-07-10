@@ -1,0 +1,7 @@
+.container {
+    width: 200px;
+    height: 200px;
+    margin: 100px 0px 0px 100px;
+    /* box-shadow: horizontal vertikal blur ngjyra; */
+    box-shadow: 4px 4px 20px rgb(0, 0, 0, 0.3);
+}

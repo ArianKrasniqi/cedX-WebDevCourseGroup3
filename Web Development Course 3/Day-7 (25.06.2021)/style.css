@@ -1,0 +1,8 @@
+#image {
+    width: 300px;
+    height: 300px;
+    border: 3px solid red;
+    background-image: url('https://images.unsplash.com/photo-1584696049838-8e692282a2e6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3RyZWV0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80');
+    opacity: 0.9;
+    background-size: cover;
+}

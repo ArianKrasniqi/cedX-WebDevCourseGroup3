@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    border: 1px solid red;
+    background-color: lightcoral;
+    width: 200px;
+    margin: 20px 0px 0px 60px;
+    padding: 20px;
+}
+
+.menu {
+    position: sticky;
+    top: 0px;
+    background: lightcoral;
+    height: 60px;
+    width: 100%;
+}
+
+.menu p {
+    text-align: center;
+}
+
+div {
+    height: 200px;
+    width: 50px;
+    border: 1px solid red;
+}
+
+.fixed {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 200px;
+    height: 60px;
+    background: lightsalmon;
+}
+
+.example {
+    border: 1px solid red;
+    height: 20px;
+    width: 200px;
+    padding: 40px;
+}

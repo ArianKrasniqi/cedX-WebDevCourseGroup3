@@ -1,0 +1,32 @@
+.header{
+  border: 1px solid black;
+  text-align: center;
+}
+.container{
+  display: flex;
+
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+
+.item1{
+ 
+  border: 1px solid black;
+  margin-left: 30px;
+
+  
+}
+
+
+
+.item2{
+  border: 1px solid black;
+  margin-left: 30px;
+}
+
+.item3{
+  border: 1px solid black;
+  margin-left: 30px;
+}
+

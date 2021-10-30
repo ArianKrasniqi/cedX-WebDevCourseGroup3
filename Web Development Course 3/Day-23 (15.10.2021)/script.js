@@ -3,10 +3,9 @@ const BLUE_BTN = document.getElementById("blue");
 const GREEN_BTN = document.getElementById("green");
 const COLOR_SPAN = document.getElementById("color");
 
-
 function buttonClicked(color) {
   console.log(`${color} button is clicked!`);
-  COLOR_SPAN.textContent = `${color}.`
+  COLOR_SPAN.textContent = `${color}.`;
 }
 
 // With arrow function
